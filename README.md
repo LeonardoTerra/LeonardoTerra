@@ -6,7 +6,6 @@ My name is Leonardo. I'm a FP&A Analyst eager to become a Data Scientist. I've c
 
 - 👀 I’m interested in developing a career in Data Science
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me ...
 
 <div align="center">
   <a href="https://github.com/LeonardoTerra">
