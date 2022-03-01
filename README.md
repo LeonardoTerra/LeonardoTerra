@@ -2,6 +2,7 @@
 ### Hi There 👋
 My name is Leonardo. I'm a FP&A Analyst eager to become a Data Scientist. I've created this repository in order to share my knowledge and learn with others. Feel free to give your feedback!
 
+je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un scientifique des données. J'a créé ce dépôt pour partager mes connaissances.
 ##
 
 - 👀 I’m interested in developing a career in Data Science
