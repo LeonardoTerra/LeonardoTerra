@@ -6,7 +6,7 @@ je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un sci
 ##
 
 - 👀 I’m interested in developing a career in Data Science
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and SQL
 
 <div align="center">
   <a href="https://github.com/LeonardoTerra">
