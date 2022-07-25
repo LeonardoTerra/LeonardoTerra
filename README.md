@@ -16,7 +16,7 @@ je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un sci
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="33" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img align="center" alt="Rafa-Ts" height="30" width="33" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1658714810~hmac=5be02db9c8bb69aeb4e5e6ca095ac7f4">
+  <img align="center" alt="Rafa-Ts" height="30" width="35" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1658714810~hmac=5be02db9c8bb69aeb4e5e6ca095ac7f4">
   <img align="center" alt="Rafa-Ts" height="30" width="36" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
   
 </div>
