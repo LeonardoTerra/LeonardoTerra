@@ -14,9 +14,9 @@ je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un sci
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTerra&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-<div style="display: inline_block", "margin-left= 20px">
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="33" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img align="center" alt="Rafa-Ts" height="30" width="37" src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815585.png?token=exp=1658714213~hmac=7b17f499a1b4ca84f462971a7913d31a">
+  <img align="center" alt="Rafa-Ts" height="30" width="33" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1658714810~hmac=5be02db9c8bb69aeb4e5e6ca095ac7f4">
   <img align="center" alt="Rafa-Ts" height="30" width="36" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
   
 </div>
