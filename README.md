@@ -17,6 +17,8 @@ je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un sci
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://mpng.subpng.com/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg">
+
 </div>
 
 ##
