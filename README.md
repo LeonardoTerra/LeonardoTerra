@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=LeonardoTerra)
 ### Hi There 👋
 I'm a **Financial and Data Analyst** working at [Pogust Goodhead](https://pogustgoodhead.com). 
-You can find out more about me and my projects [here]([https://linktr.ee/leonardoterra?utm_source=linktree_admin_share](https://linktr.ee/leonardoterra))!
+You can find out more about me and my projects [here]([https://linktr.ee/leonardoterra?utm_source=linktree_admin_share](https://linktr.ee/leonardoterra)!
 
-je m'appelle Leonardo. Je suis un **Analyste Financier et des Donnes** qui travaile avec **Pogust Goodhead**.
+Je suis un **Analyste Financier et des Donnes** qui travaille pour **Pogust Goodhead**.
 Vous pouvez savoir plus sur moi et mes projets **ici**!
 ##
 
