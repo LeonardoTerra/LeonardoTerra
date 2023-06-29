@@ -11,21 +11,21 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Java(Spring Boot), Go],
-  interests: [Research, Open Source]
+  learning : [Especializing in Data Science],
+  interests: [Research, Statistics, Business Intelligence, Finances]
 }
 
 const skills = 
 {
-  languages :[Cpp, Python, Javascript],
+  languages :[Python, SQL, Javascript],
   
-  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  libraries :[Pandas, Numpy, Scipy, Seaborn, Requests, Beautiful Soup, Selenium],
   
-  libraries: [ReactJs]
+  databases :[MySql],
+
+  business intelligence :[Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
   
-  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
-  
-  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+  Tools :[Pycharm, Sypder, Jupyter Notebook, VS Code]
 }
 
 <!---
