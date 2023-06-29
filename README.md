@@ -5,12 +5,37 @@ My name is Leonardo. I'm a FP&A Analyst eager to become a Data Scientist. I've c
 je m'appelle Leonardo. Je suis un Analyste Financier qui souhaite devenir un scientifique des données. J'a créé ce dépôt pour partager mes connaissances.
 ##
 
+```js
+
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [Java(Spring Boot), Go],
+  interests: [Research, Open Source]
+}
+
+const skills = 
+{
+  languages :[Cpp, Python, Javascript],
+  
+  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
+  
+  libraries: [ReactJs]
+  
+  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
+  
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
+}
+
+<!---
 - 👀 I’m interested in developing a career in Data Science
 - 🌱 I’m currently learning Python and SQL
 
 <div align="center">
   <a href="https://github.com/LeonardoTerra">
   <!---img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoTerra&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/-->
+  <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTerra&layout=compact&langs_count=7&theme=react"/>
 </div>
 
