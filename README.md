@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=LeonardoTerra)
 ### Hi There 👋
-I'm a **Financial and Data Analyst** working at [Pogust Goodhead](https://pogustgoodhead.com). 
+I'm a **Financial and Data Analyst** working to become a Data Scientist. 
 You can find out more about me and my projects [here](https://linktr.ee/leonardoterra)!
 
 Je suis un **Analyste Financier et des Donnes** qui travaille pour **Pogust Goodhead**.
@@ -14,14 +14,14 @@ document.write("Hello World");
 var status = 
 { 
   learning : [Especializing in Data Science],
-  interests: [Research, Statistics, Business Intelligence, Finances]
+  interests: [Research, Statistics, Business Intelligence, Data Science, Machine Learning, Finances]
 }
 
 const skills = 
 {
-  languages :[Python, SQL, Javascript],
+  languages :[Python, SQL],
   
-  libraries :[Pandas, Numpy, Scipy, Seaborn, Requests, Beautiful Soup, Selenium],
+  libraries :[Pandas, Numpy, Scipy, SKLearn, Matplotlib, Seaborn, Requests, Beautiful Soup, Selenium],
   
   databases :[MySql],
 
