@@ -13,7 +13,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Especializing in Data Science],
+  learning : [Especializing in Data Science & Behavioral Finances],
   interests: [Research, Statistics, Business Intelligence, Data Science, Machine Learning, Finances]
 }
 
@@ -27,7 +27,7 @@ const skills =
 
   business intelligence :[Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
   
-  Tools :[Pycharm, Sypder, Jupyter Notebook, VS Code]
+  Tools :[Pycharm, Sypder, Jupyter Notebook, VS Code, Colab]
 }
 ```
 ---
