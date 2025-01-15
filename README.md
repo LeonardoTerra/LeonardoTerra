@@ -31,11 +31,6 @@ const skills =
 }
 ```
 ---
-##
-<div>
-  <a href="https://www.linkedin.com/in/leonardo-terra-97b592124/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" /></a>
-  <a href="https://linktr.ee/leonardoterra" target="_blank"><img src="https://img.shields.io/badge/linktree-%2312100E.svg?&style=for-the-badge&logo=linktree&logoColor=black&color=green" /></a>
-</div>
 
 <!---
 LeonardoTerra/LeonardoTerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
