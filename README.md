@@ -11,23 +11,26 @@ Vous pouvez savoir plus sur moi et mes projets **ici**!
 
 document.write("Hello World");
 
-var status = 
-{ 
-  learning : [Especializing in Data Science & Behavioral Finances],
-  interests: [Research, Statistics, Business Intelligence, Data Science, Machine Learning, Finances]
+var status =
+{
+  Learning in Finances: [Especializing in Behavioral Finances & Market Intelligence],
+  Learning in Technology: [Especializing in Data Science & Cyber Security],
+  Interests: [Finances, Statistics, Business Intelligence, Data Science, Machine Learning, Research]
 }
 
-const skills = 
+const skills =
 {
-  languages :[Python, SQL],
-  
-  libraries :[Pandas, Numpy, Scipy, SKLearn, Matplotlib, Seaborn, Requests, Beautiful Soup, Selenium],
-  
-  databases :[MySql],
+  Programming: [Python, SQL],
 
-  business intelligence :[Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
+  Libraries: [Pandas, Numpy, SKLearn, Matplotlib, Seaborn, Requests, BeautifulSoup, others],
+
+  Databases: [MySql],
+
+  Business_Intelligence: [Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
+
+  Tools: [Pycharm, Sypder, Jupyter Notebook, VS Code, Colab],
   
-  Tools :[Pycharm, Sypder, Jupyter Notebook, VS Code, Colab]
+  Idioms: [Portuguese, Spanish, English, French]
 }
 ```
 ---
