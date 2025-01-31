@@ -1,10 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=LeonardoTerra)
 ### Hi There 👋
-I'm a **Financial and Data Analyst** working to become a Data Scientist. 
+I'm a **Financial and Data Scientist**.
 You can find out more about me and my projects [here](https://linktr.ee/leonardoterra)!
 
-Je suis un **Analyste Financier et des Donnes** qui travaille pour devenir un Scientifique de Donnes.
-Vous pouvez savoir plus sur moi et mes projets **ici**!
 ##
 
 ```js
