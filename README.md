@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=LeonardoTerra)
 ### Hi There 👋
-I'm a **Financial and Data Scientist**.
+I'm a **Financial analysit and Data Science enthusiast**.
 You can find out more about me and my projects [here](https://linktr.ee/leonardoterra)!
 
 ##
@@ -11,8 +11,8 @@ document.write("Hello World");
 
 var status =
 {
-  Learning in Finances: [Especializing in Behavioral Finances & Market Intelligence],
-  Learning in Technology: [Especializing in Data Science & Cyber Security],
+  Learning in Finances: [Especializing Statistics],
+  Learning in Technology: [Especializing in Data Science],
   Interests: [Finances, Statistics, Business Intelligence, Data Science, Machine Learning, Research]
 }
 
@@ -26,7 +26,7 @@ const skills =
 
   Business_Intelligence: [Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
 
-  Tools: [Pycharm, Sypder, Jupyter Notebook, VS Code, Colab],
+  Tools: [Pycharm, Sypder, Jupyter Notebook, VS Code, Colab, Docker, N8N],
   
   Idioms: [Portuguese, Spanish, English, French]
 }
