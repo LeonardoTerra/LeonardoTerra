@@ -24,9 +24,9 @@ const skills =
 
   Databases: [MySql],
 
-  Business_Intelligence: [Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
+  Business_Intelligence: [Google Sheets, Microsoft Excel, Microsoft Power BI, Tableau, Qlik Sense],
 
-  Tools: [Pycharm, Sypder, Jupyter Notebook, VS Code, Colab, Docker, N8N],
+  Tools: [Pycharm, Sypder, Jupyter Notebook, VS Code, Google Colab, Docker, N8N],
   
   Idioms: [Portuguese, Spanish, English, French]
 }
